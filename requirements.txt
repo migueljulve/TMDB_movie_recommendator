@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+joblib
+requests
+python-dotenv
+scikit-learn
+thefuzz
+
+
